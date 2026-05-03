@@ -27,8 +27,7 @@ st.write("A la recherche d'une premiére expérience professionelle,je suis pret
 
 with st.sidebar:
     st.header("Khadidiatou Aidara")
-    st.write("Titre:")
-    st.write("Technicienne Supérieure en Géomatique")
+    st.write("Titre:Technicienne Supérieure en Géomatique")
     st.markdown("""Email:khadidiatouaidara968@gmail.
     com""")
     st.write("Adresse:Dakar,Sénégal")
