@@ -1,26 +1,27 @@
 import streamlit as st
 
-st.header("PROFIL")
-st.write("Etant technicienne supérieure en Géomatique,motivéé et sérieuse,je suis animée par une réelle passion pour ce domaine et je souhaite mettre mes compétences et mon savoir-faire au service de votre structure ")
+st.markdown("PROFIL")
+st.write("Technicienne supérieure en Géomatique,motivéé et sérieuse,je suis animée par une réelle passion pour ce domaine .Je souhaite mettre mes compétences et mon savoir-faire au service de votre structure ")
 
-st.header("PARCOURS")
-st.write("Baccalauréat:d'office en 2024 UCAD")
-st.write("Brevet de Technicien Supérieur en Géomatique")
+st.markdown("PARCOURS")
+st.write("Baccalauréat:d'office en 2024 à l'UCAD")
+st.write("Brevet de Technicien Supérieur (BTS) en Géomatique")
 
-st.header("FORMATION")
+st.markdown("FORMATION")
 st.write("licence en Géomatique au centre de Formation et d'Entreprenariat le G15(2026-2027)")
 
-st.header("COMPETENCES")
-st.write("Python")
-st.write("SIG(ArcMap,QGIS)")
-st.write("Autocad")
-st.write("Technique de Base en Géographie")
-st.write("Géoréferencement")
+st.markdown("COMPETENCES")
+st.write(".Python")
+st.write(".SIG(ArcMap,QGIS)")
+st.write(".Autocad")
+st.write(".GPS/GNSS")
+st.write(".Géoréferencement")
+st.write(".Web Mapping")
 
-st.header("EXPERIENCES")
+st.markdown("EXPERIENCES")
 st.write("Stage en Topographie:durée de 3 mois")
 
-st.header("OUTILS")
+st.markdown("OUTILS")
 st.write("suite office ,OTC")
 
 st.write("A la recherche d'une premiére expérience professionelle,je suis prete à apprendre et à m'adapter rapidement inchaalah merci")
