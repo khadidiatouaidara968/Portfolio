@@ -10,7 +10,7 @@ st.write("Brevet de Technicien Supérieur (BTS) en Géomatique")
 st.markdown("## FORMATION")
 st.write("licence en Géomatique au centre de Formation et d'Entreprenariat le G15(2026-2027)")
 
-st.markdown("C## OMPETENCES")
+st.markdown("## COMPETENCES")
 st.write(".Python")
 st.write(".SIG(ArcMap,QGIS)")
 st.write(".Autocad")
